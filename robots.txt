@@ -1,0 +1,5 @@
+﻿User-agent: *
+Allow: /
+
+
+Sitemap: https://precisiondemolitionservices.xyz/sitemap_index.xml
